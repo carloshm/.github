@@ -1,0 +1,908 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Carlos",
+      "surnames": "de Huerta",
+      "title": "Define and deliver a technology strategy for your business",
+      "description": "Be present and thankful. Eternally curious about everything. Enjoy driving the business end-end, close to the voice of users. Empowering business from the grown up, cloud as an enabler. Do not hesitate in contacting me with your challenges.",
+      "avatar": {
+        "alt": "me2.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/e48d3c92-1b77-435b-b951-ae654254a300_me2.jpg"
+      },
+      "location": {
+        "country": "España",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/carloshm"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/carl0shm"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/carloshm/"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "About AI and Automation",
+        "type": "reading",
+        "URL": "https://www.linkedin.com/pulse/ai-automation-carlos-de-huerta-mezquita?trk=public_profile_article_view",
+        "authors": [
+          {
+            "name": "",
+            "surnames": "",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Software Quality Testing in the future of connected cars",
+        "type": "reading",
+        "URL": "https://www.linkedin.com/pulse/software-quality-testing-hardware-certification-cars-carlos?trk=public_profile_article_view",
+        "authors": [
+          {
+            "name": "",
+            "surnames": "",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
+      },
+      {
+        "title": "The infinite is coming closer",
+        "type": "reading",
+        "URL": "https://www.linkedin.com/pulse/infinite-coming-closer-carlos-de-huerta-mezquita?trk=public_profile_article_view",
+        "authors": [
+          {
+            "name": "",
+            "surnames": "",
+            "title": "Author"
+          }
+        ],
+        "summary": ""
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Microsoft",
+          "image": {
+            "alt": "MSFT.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/7e4c0d45-1ba6-48fb-aedc-0d4478f87aad_msft.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/microsoft?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Partner Technology Strategist (GSI)",
+            "startDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "Microsoft mission is to empower every person and every organization on the planet to achieve more. Carlos works closely with the Global Partner Ecosystem at a technology strategic level, to help them digitally transform their services by re-imagining how they can bring together people, Microsoft Cloud, and Business Processes to create value for their customers and maintain a competitive advantage in a digital-first world. He stays focus on four key pillars: • Share broad knowledge of the industry, technology landscape and Microsoft platform, demonstrate technical leadership and help partners drive their business towards digital transformation. • Drive partner technical qualification process and gain/maintain a strong understanding of the partner business model and strategies. • Facilitate practice design thru solution/practice maps and scale through repeatable automated building blocks/solutions. • Be responsible for successful skills and talent development of partners to successfully provide solutions and services on Microsoft platform."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Technovation Challenge",
+          "image": {
+            "alt": "tech.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/3f2a8244-0c4c-447b-8f43-93210d29c3e4_tech.png"
+          },
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Mentor",
+            "startDate": "2019-03-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "espora.net",
+          "image": {
+            "alt": "1618832867520.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/628d39ba-6491-4a36-a023-ce751de68160_1618832867520.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/espora-net?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Co-Owner",
+            "startDate": "2010-01-01",
+            "challenges": [
+              {
+                "description": "A place to experiment and bring ideas to life in a variable range of fields crafted with technology and passion. Carlos validates hypotheses with technology and service design to address user challenges. A place to experiment and bring ideas to life in a variable range of fields crafted with technology and passion. Carlos validates hypotheses with technology and service design to address user challenges."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IE Business School",
+          "image": {
+            "alt": "IE.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/91cff152-db93-43a2-8cfc-d32115eb20ec_ie.png"
+          },
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Mentor",
+            "startDate": "2021-02-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ministerio de Educación, España (Instituto Nacional de las Cualificaciones)",
+          "image": {
+            "alt": "1625128202352.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/e16235d7-71f7-47ed-8dc1-02e322e2f9d8_1625128202352.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/educaciongob?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Cloud advisor",
+            "startDate": "2021-02-01",
+            "finishDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Member of the Cloud Computing group to define the associated Cloud qualification for the design of the Professional Training qualifications of the educational system and the certificates of professionalism of the Professional Training for Employment Member of the Cloud Computing group to define the associated Cloud qualification for the design of the Professional Training qualifications of the educational system and the certificates of professionalism of the Professional Training for Employment"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IE Business School",
+          "image": {
+            "alt": "IE.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/7d1343dc-027e-4868-b001-8ce704c8575a_ie.png"
+          },
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Mentor",
+            "startDate": "2017-07-01",
+            "finishDate": "2017-11-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Médecins Sans Frontières (MSF)",
+          "image": {
+            "alt": "1519856500313.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/74881ce2-2734-43b9-8b7f-0892a2173907_1519856500313.jpg"
+          },
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Technical Advisor",
+            "startDate": "2008-02-01",
+            "finishDate": "2010-06-30",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Junior Achievement España",
+          "image": {
+            "alt": "1650554029283.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/140f8f43-3702-4613-b5b3-0c67940ef513_1650554029283.jpg"
+          },
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Job Shadow",
+            "startDate": "2007-01-01",
+            "finishDate": "2007-02-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Oxfam Intermón"
+        },
+        "roles": [
+          {
+            "name": "Voluntary Contributor",
+            "startDate": "2006-01-01",
+            "finishDate": "2018-02-28",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Microsoft",
+          "image": {
+            "alt": "1618231291419.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/07/4c1fa98b-8d9c-4f0a-97c5-5fb6ac9910df_1618231291419.jpg"
+          },
+          "URL": ""
+        },
+        "roles": [
+          {
+            "name": "Language Champ, TwC Global Readiness",
+            "startDate": "2005-06-01",
+            "finishDate": "2016-03-31",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Technical Innovation Hero",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2021-06-01"
+      },
+      {
+        "details": {
+          "name": "Explorer Award - Very Inspiring People",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2020-12-01"
+      },
+      {
+        "details": {
+          "name": "Top Subsidiary Award Best Multi-Sub Area",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2020-07-01"
+      },
+      {
+        "details": {
+          "name": "Area Digital Transformation Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2019-07-01"
+      },
+      {
+        "details": {
+          "name": "Digital Transformation Impact Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2018-07-01"
+      },
+      {
+        "details": {
+          "name": "Area Digital Transformation Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2017-07-01"
+      },
+      {
+        "details": {
+          "name": "WE AAD Exhibition of Excellence Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2017-07-01"
+      },
+      {
+        "details": {
+          "name": "Top Subsidiary Award Best Multi-Sub Area",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2016-12-01"
+      },
+      {
+        "details": {
+          "name": "Hackathon 2016 winner Spain",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2016-08-01"
+      },
+      {
+        "details": {
+          "name": "Key Talent Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2015-09-01"
+      },
+      {
+        "details": {
+          "name": "EMEA Services Winner Cloud Business",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2015-07-01"
+      },
+      {
+        "details": {
+          "name": "WE Services Selling on Strategy Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2015-07-01"
+      },
+      {
+        "details": {
+          "name": "Great People and Great Performance Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2014-10-01"
+      },
+      {
+        "details": {
+          "name": "Certificate of Achievement ThinkWeek",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2014-05-01"
+      },
+      {
+        "details": {
+          "name": "WE Services Selling On Strategy Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2013-07-01"
+      },
+      {
+        "details": {
+          "name": "Great People and Great Performance Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2011-06-01"
+      },
+      {
+        "details": {
+          "name": "Gold Star Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2010-02-01"
+      },
+      {
+        "details": {
+          "name": "Certificate of Achievement ThinkWeek",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2010-02-01"
+      },
+      {
+        "details": {
+          "name": "Key Talent Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2009-09-01"
+      },
+      {
+        "details": {
+          "name": "Best Of Papers ThinkWeek",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2009-02-01"
+      },
+      {
+        "details": {
+          "name": "Great People and Great Performance Award",
+          "description": "Issued by Microsoft"
+        },
+        "type": "achievement",
+        "publishingDate": "2005-02-01"
+      },
+      {
+        "details": {
+          "name": "Team Member for Bcentral.es Ship-It Award",
+          "description": "Issued by -"
+        },
+        "type": "achievement",
+        "publishingDate": "2003-02-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Google Cloud Digital Leader Training Specialization",
+        "startDate": "2021-11-01",
+        "finishDate": "2021-11-01",
+        "institution": {
+          "name": "Coursera",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Technical Leadership Development Program - Alumni",
+        "startDate": "2021-11-01",
+        "finishDate": "2021-11-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "OpenHack: Security, Compliance, and Identity",
+        "startDate": "2021-10-01",
+        "finishDate": "2021-10-01",
+        "institution": {
+          "name": "Microsoft OpenHack",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Global Hackathon",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Azure Architecture Center Contributor",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure AI Engineer Associate",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Kellogg: Modern Marketing",
+        "startDate": "2020-11-01",
+        "finishDate": "2020-11-01",
+        "institution": {
+          "name": "Northwestern University - Kellogg School of Management",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Accessibility in Action",
+        "startDate": "2020-11-01",
+        "finishDate": "2020-11-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Arctic Code Vault Contributor",
+        "startDate": "2020-07-01",
+        "finishDate": "2020-07-01",
+        "institution": {
+          "name": "GitHub",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Dynamics 365 Fundamentals",
+        "startDate": "2020-06-01",
+        "finishDate": "2020-06-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft 365 Certified: Fundamentals",
+        "startDate": "2020-05-01",
+        "finishDate": "2020-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Power Platform Fundamentals",
+        "startDate": "2020-05-01",
+        "finishDate": "2020-05-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Modern Marketer: Customer Insights",
+        "startDate": "2020-04-01",
+        "finishDate": "2020-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Kellogg: Insights & Analytics",
+        "startDate": "2019-11-01",
+        "finishDate": "2019-11-01",
+        "institution": {
+          "name": "Northwestern University - Kellogg School of Management",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "startDate": "2019-11-01",
+        "finishDate": "2019-11-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "The Coaching Habit",
+        "startDate": "2019-10-01",
+        "finishDate": "2019-10-01",
+        "institution": {
+          "name": "Box of Crayons",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Deep Learning Specialization",
+        "startDate": "2018-04-01",
+        "finishDate": "2018-04-01",
+        "institution": {
+          "name": "Coursera",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Sequence Models",
+        "startDate": "2018-04-01",
+        "finishDate": "2018-04-01",
+        "institution": {
+          "name": "Coursera",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Convolutional Neural Networks",
+        "startDate": "2018-04-01",
+        "finishDate": "2018-04-01",
+        "institution": {
+          "name": "Coursera",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "High Performance Mindset",
+        "startDate": "2018-03-01",
+        "finishDate": "2018-03-01",
+        "institution": {
+          "name": "Compete to Create",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+        "startDate": "2018-02-01",
+        "finishDate": "2018-02-01",
+        "institution": {
+          "name": "Coursera",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Structuring Machine Learning Projects",
+        "startDate": "2018-02-01",
+        "finishDate": "2018-02-01",
+        "institution": {
+          "name": "Coursera",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Neural Networks and Deep Learning",
+        "startDate": "2017-12-01",
+        "finishDate": "2017-12-01",
+        "institution": {
+          "name": "Coursera",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Global Challenger",
+        "startDate": "2017-10-01",
+        "finishDate": "2017-10-01",
+        "institution": {
+          "name": "Challenger",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Digital Advisor Academy",
+        "startDate": "2016-12-01",
+        "finishDate": "2016-12-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft & Accenture: Digital Transformation by Manufacturing & Resources",
+        "startDate": "2016-11-01",
+        "finishDate": "2016-11-01",
+        "institution": {
+          "name": "Accenture",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CITA-P (Certified Information Technology Architect Professional)",
+        "startDate": "2016-08-01",
+        "finishDate": "2016-08-01",
+        "institution": {
+          "name": "Iasa Global",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "LEGO WeDo for Trainers",
+        "startDate": "2015-06-01",
+        "finishDate": "2015-06-01",
+        "institution": {
+          "name": "LEGO Education",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Azure Architecting Solutions",
+        "startDate": "2015-04-01",
+        "finishDate": "2015-04-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Prosci Change Management Certification Program (ADKAR)",
+        "startDate": "2014-11-01",
+        "finishDate": "2014-11-01",
+        "institution": {
+          "name": "Prosci",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Machine Learning",
+        "startDate": "2014-05-01",
+        "finishDate": "2014-05-01",
+        "institution": {
+          "name": "Coursera",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Gamification",
+        "startDate": "2014-04-01",
+        "finishDate": "2014-04-01",
+        "institution": {
+          "name": "Coursera Verified Certificates",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CITA-F (Certified Information Technology Architect Foundation)",
+        "startDate": "2012-02-01",
+        "finishDate": "2012-02-01",
+        "institution": {
+          "name": "Iasa Global",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified Professional",
+        "startDate": "2005-02-01",
+        "finishDate": "2005-02-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": ""
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor’s Degree Telecommunications Engineering",
+        "startDate": "1994-01-01",
+        "finishDate": "1999-12-31",
+        "institution": {
+          "name": "Universidad de Alcalá",
+          "description": "",
+          "URL": "https://www.linkedin.com/school/uahes/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/carloshm/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Engineering Management",
+        "IT Manager",
+        "VP of Engineering"
+      ]
+    },
+    "status": "openToOffers"
+  }
+}
